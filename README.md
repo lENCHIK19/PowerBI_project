@@ -77,4 +77,4 @@ These two tables were then used in Power BI to build interactive and comparative
 
 ## Author
 
-**Jelena Puzova**  
+**Jelena Půžová**  
